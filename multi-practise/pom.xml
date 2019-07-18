@@ -25,5 +25,7 @@
     <module>practise-promote</module>
     <module>practise-hadoop</module>
         <module>practise-java8inaction</module>
+        <module>practise-leetcode</module>
+        <module>practise-websoket</module>
     </modules>
 </project>

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/practise-java8/practise-java8.iml" filepath="$PROJECT_DIR$/practise-java8/practise-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-jodd/practise-jodd.iml" filepath="$PROJECT_DIR$/practise-jodd/practise-jodd.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-json/practise-json.iml" filepath="$PROJECT_DIR$/practise-json/practise-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise-leetcode/practise-leetcode.iml" filepath="$PROJECT_DIR$/practise-leetcode/practise-leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-mybatisSourceCode/practise-mybatisSourceCode.iml" filepath="$PROJECT_DIR$/practise-mybatisSourceCode/practise-mybatisSourceCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-netty/practise-netty.iml" filepath="$PROJECT_DIR$/practise-netty/practise-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-promote/practise-promote.iml" filepath="$PROJECT_DIR$/practise-promote/practise-promote.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/practise-upgradJava/practise-upgradJava.iml" filepath="$PROJECT_DIR$/practise-upgradJava/practise-upgradJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-upgrade/practise-upgrade.iml" filepath="$PROJECT_DIR$/practise-upgrade/practise-upgrade.iml" />
       <module fileurl="file://$PROJECT_DIR$/practise-java8inaction/practisejava8inaction.iml" filepath="$PROJECT_DIR$/practise-java8inaction/practisejava8inaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise-websoket/practisewebsoket.iml" filepath="$PROJECT_DIR$/practise-websoket/practisewebsoket.iml" />
     </modules>
   </component>
 </project>

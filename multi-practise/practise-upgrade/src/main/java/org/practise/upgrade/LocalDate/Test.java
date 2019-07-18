@@ -55,7 +55,7 @@ public class Test {
 		
 		System.out.println("----------------localDateTime---------------------");
 		ZoneId zoneId = ZoneId.systemDefault();
-		LocalDateTime todayStart=LocalDateTime.now().withHour(0).withMinute(0).withSecond(0).withNano(0);
+		LocalDateTime todayStart=LocalDateTime.now().minusDays(30).withHour(0).withMinute(0).withSecond(0).withNano(0);
 		ZonedDateTime zdt = todayStart.atZone(zoneId);
 		Date date = Date.from(zdt.toInstant());
 		

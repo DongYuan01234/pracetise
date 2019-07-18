@@ -12,6 +12,7 @@
         <module name="practise-java8" />
         <module name="practise-jodd" />
         <module name="practise-json" />
+        <module name="practise-leetcode" />
         <module name="practise-mybatisSourceCode" />
         <module name="practise-netty" />
         <module name="practise-promote" />
@@ -24,6 +25,7 @@
         <module name="practise-upgrade" />
         <module name="practise-upgradJava" />
         <module name="practisejava8inaction" />
+        <module name="practisewebsoket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -34,6 +36,7 @@
       <module name="practise-java8" target="1.8" />
       <module name="practise-jodd" target="1.8" />
       <module name="practise-json" target="1.8" />
+      <module name="practise-leetcode" target="1.8" />
       <module name="practise-mybatisSourceCode" target="1.7" />
       <module name="practise-netty" target="1.8" />
       <module name="practise-promote" target="1.8" />
@@ -45,7 +48,8 @@
       <module name="practise-thread" target="1.8" />
       <module name="practise-upgrade" target="1.8" />
       <module name="practise-upgradJava" target="1.8" />
-      <module name="practisejava8inaction" target="1.8" />
+      <module name="practisejava8inaction" target="8" />
+      <module name="practisewebsoket" target="1.8" />
       <module name="untitled" target="1.5" />
       <module name="web-app" target="1.5" />
     </bytecodeTargetLevel>

@@ -32,15 +32,15 @@ public class Sums {
 
     public static void main(String[] args) throws Exception {
         ExecutorService executor = Executors.newFixedThreadPool(10);
-        List<Future<Long>> results = executor.invokeAll(asList(
-                new Sum(0, 10), new Sum(0, 1_000), new Sum(0, 1_000_000),
-                 new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000)
-                 , new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000)
-                 
-        ));
-        executor.shutdown();
-        for (Future<Long> result : results) {
-            System.out.println(result.get());
-        }
+//        List<Future<Long>> results = executor.invokeAll(asList(
+//                new Sum(0, 10), new Sum(0, 1_000), new Sum(0, 1_000_000),
+//                 new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000)
+//                 , new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000), new Sum(0, 1_000_000)
+//
+//        ));
+//        executor.shutdown();
+//        for (Future<Long> result : results) {
+//            System.out.println(result.get());
+//        }
     }
 }
